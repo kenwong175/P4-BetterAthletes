@@ -1,12 +1,19 @@
 # Better Athletes
 
-Manage your workouts better
+Manage your workouts better for the coach and also the athlete.
 
 ## Link & Description
 
 Link: better-athletes.herokuapp.com
 
 Better athletes is a platform which provides the option to make your workouts more specific and track your data more closely. Other apps ask you for distance and time, with no flexibility. But if your workouts are more interval based where you need to track each rep, Better Athletes gives you that option!
+
+
+## Team Break-Down
+
+- Shawn Wee
+- Tyrone Tang
+- Wong Kin Ken
 
 ## Built With
 - React
@@ -36,6 +43,11 @@ Better athletes is a platform which provides the option to make your workouts mo
 ![7](./screenshots/WorkoutResults.png)
 ### Training Calendar
 ![8](./screenshots/TrainingCalendar.png)
+
+### Unsolved problems
+
+No club entry/creation page.
+Assigning multiple athletes to the workout will cause the empty form validation to throw error.
 
 ## Acknowledgements
 Thank you Tyrone and Shawn for all the hardwork together to achieve and complete this app. Thanks to our instructor, Ebere Iweala and also both TAs Tristan Calleja and Lai Siu Sing for all the guidance during this project.
