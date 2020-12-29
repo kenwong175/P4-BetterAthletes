@@ -4,7 +4,7 @@ Manage your workouts better for the coach and also the athlete.
 
 ## Link & Description
 
-Link: better-athletes.herokuapp.com
+Link: https://better-athletes.herokuapp.com
 
 Better athletes is a platform which provides the option to make your workouts more specific and track your data more closely. Other apps ask you for distance and time, with no flexibility. But if your workouts are more interval based where you need to track each rep, Better Athletes gives you that option!
 
